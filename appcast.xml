@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Hush Free updates</title>
+    <link>https://github.com/apoorv-agnihotri/hush-ai-releases/releases</link>
+    <description>Official signed updates for Hush Free.</description>
+    <language>en</language>
+  </channel>
+</rss>
