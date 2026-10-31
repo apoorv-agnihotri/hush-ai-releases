@@ -1,9 +1,11 @@
-# Hush releases
+# Hush Free releases
 
-Official downloads and release notes for Hush, a macOS dictation app.
+Free, on-device English dictation for Apple Silicon Macs running macOS 26 or later.
 
-App downloads will appear under [Releases](https://github.com/apoorv-agnihotri/hush-ai-releases/releases) when the first public build is ready.
+[Download Hush Free 0.1.0 beta](https://github.com/apoorv-agnihotri/hush-ai-releases/releases/download/v0.1.0/Hush-0.1.0.dmg) · [Release notes and checksums](https://github.com/apoorv-agnihotri/hush-ai-releases/releases/tag/v0.1.0)
 
-The Sparkle update feed is published at https://apoorv-agnihotri.github.io/hush-ai-releases/appcast.xml.
+Open the DMG, drag Hush to Applications, then launch it from Applications. The app and DMG are Developer ID signed and notarized by Apple. Microphone access is required; Input Monitoring enables Fn and Accessibility enables automatic paste. Polishing uses Apple Intelligence when available, otherwise the original transcript is used.
 
-This repository contains distribution files only, not the application source code.
+The Sparkle feed is https://apoorv-agnihotri.github.io/hush-ai-releases/appcast.xml.
+
+This repository contains distribution files only, not application source code. This beta is undergoing fresh-install and update validation.
