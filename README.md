@@ -2,7 +2,7 @@
 
 Free, on-device English dictation for Apple Silicon Macs running macOS 26 or later.
 
-[Download Hush Free 0.1.0 beta](https://github.com/apoorv-agnihotri/hush-ai-releases/releases/download/v0.1.0/Hush-0.1.0.dmg) · [Release notes and checksums](https://github.com/apoorv-agnihotri/hush-ai-releases/releases/tag/v0.1.0)
+[Download Hush Free 0.1.1 beta](https://github.com/apoorv-agnihotri/hush-ai-releases/releases/download/v0.1.1/Hush-0.1.1.dmg) · [Release notes and checksums](https://github.com/apoorv-agnihotri/hush-ai-releases/releases/tag/v0.1.1)
 
 Open the DMG, drag Hush to Applications, then launch it from Applications. The app and DMG are Developer ID signed and notarized by Apple. Microphone access is required; Input Monitoring enables Fn and Accessibility enables automatic paste. Polishing uses Apple Intelligence when available, otherwise the original transcript is used.
 
